@@ -2,7 +2,7 @@
 I'm studying the Full Stack web Development with ASP.NET Core
 
 # 🚀 Skills & Interests
- - 🌐 Web Development: HTML, CSS, Bootstrap, JavaScript, Database, EFC, Web API, MVC 
+ - 🌐 Web Development: HTML, CSS, Bootstrap, JavaScript, Database, C#, EFC, Web API, MVC 
  - 💻 Programming Languages: JavaScript, C#
 
 # 💼 Projects I'm Proud Of
