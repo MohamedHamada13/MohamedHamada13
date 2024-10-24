@@ -15,5 +15,3 @@ I'm studying the Full Stack web Development with ASP.NET Core
 - LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-hamdy-5ab364227/)
 - Email: Mohamed135hamdy@gmail.com
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
