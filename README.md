@@ -8,7 +8,7 @@ I'm studying the Full Stack web Development with ASP.NET Core
  - 📦 Frameworks: Bootstrap, EFC
 ## ⚒️ Use Tools
  - Git & Github
- - VS & VSC
+ - VS & VSC & SQL Server
  - Notion
 ## 🚀 My Skills
  - OOP
