@@ -19,5 +19,6 @@ I'm studying the Full Stack web Development with ASP.NET Core
  - [Project-2]([URL])
 # 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/mohamed-hamdy-5ab364227/)
- - Email: Mohamed135hamdy@gmail.com
+ - Gmail: Mohamed135hamdy@gmail.com
+ - WhatApp: 01140038286
 
