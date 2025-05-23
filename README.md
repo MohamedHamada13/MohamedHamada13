@@ -3,7 +3,7 @@ I'm studying the Full Stack web Development with ASP.NET Core
 
 ## 🌱 Currently Learning
  - 🎨 Front-end: HTML, CSS, JavaScript
- - 🧠 Back-end: Database, EFC, Linq, Web API, MVC
+ - 🧠 Back-end: SQL Database, EFC, Linq, Web API, MVC
  - 💻 Programming Languages: JavaScript, C#, SQL
  - 📦 Frameworks: Bootstrap, EFC
 ## ⚒️ Use Tools
