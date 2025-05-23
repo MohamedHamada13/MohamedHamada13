@@ -7,8 +7,8 @@ I'm studying the Full Stack web Development with ASP.NET Core
  - 💻 Programming Languages: JavaScript, C#, SQL
  - 📦 Frameworks: Bootstrap, EFC
 ## ⚒️ Use Tools
- - Git & Github
- - VS & VSC & SQL Server
+ - Git & Github & Github copilot
+ - VS & VSC & SQL Server & Postman
  - Notion
 ## 🚀 My Skills
  - OOP
